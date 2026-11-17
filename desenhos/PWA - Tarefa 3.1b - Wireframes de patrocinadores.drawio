@@ -1,0 +1,1304 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net" type="device" compressed="false">
+  <diagram id="sponsor-1" name="01 — Lista de patrocinadores — browser">
+    <mxGraphModel dx="1280" dy="900" grid="1" gridSize="10" page="1" pageScale="1" pageWidth="1280" pageHeight="900" background="#F4F4F4">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p1-0" value="01 · Lista de patrocinadores · Browser" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#555555;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="23" width="1200" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="65" width="1220" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="65" width="1220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-3" value="ANIMALEC" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=25;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="86" width="250" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-4" value="Administração" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=right;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=17;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="93" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-5" value="Administração / Patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="62" y="160" width="900" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-6" value="Patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=29;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="210" width="650" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5E5E5;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="864" y="210" width="192" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-8" value="Adicionar patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="872" y="220" width="176" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="210" width="148" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-10" value="Menu principal" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1078" y="220" width="132" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0D0D0;strokeColor=#D0D0D0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="281" width="1156" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="311" width="1156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-13" value="Nome" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="78" y="326" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-14" value="Email" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="258" y="326" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-15" value="País" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="564" y="326" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-16" value="Animais apoiados" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="708" y="326" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-17" value="Ações" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="954" y="326" width="248" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CCCCCC;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="359" width="1156" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-19" value="Patrocinador 01" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="78" y="388" width="156" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-20" value="patrocinador01@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="258" y="388" width="282" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-21" value="Portugal" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="564" y="388" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-22" value="Animal A, Animal B" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="708" y="388" width="222" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-23" value="Ver  ·  Editar  ·  Remover" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="954" y="388" width="248" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CCCCCC;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="444" width="1156" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-25" value="Patrocinador 02" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="78" y="473" width="156" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-26" value="patrocinador02@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="258" y="473" width="282" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-27" value="—" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="564" y="473" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-28" value="Animal B" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="708" y="473" width="222" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-29" value="Ver  ·  Editar  ·  Remover" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="954" y="473" width="248" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-30" value="2 patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="62" y="645" width="700" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sponsor-2" name="02 — Formulário de patrocinador — browser">
+    <mxGraphModel dx="1280" dy="900" grid="1" gridSize="10" page="1" pageScale="1" pageWidth="1280" pageHeight="900" background="#F4F4F4">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p2-0" value="02 · Formulário de patrocinador · Browser" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#555555;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="23" width="1200" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="65" width="1220" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="65" width="1220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-3" value="ANIMALEC" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=25;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="86" width="250" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-4" value="Administração" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=right;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=17;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="93" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-5" value="Administração / Patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="62" y="160" width="900" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-6" value="Adicionar patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=29;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="210" width="850" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-7" value="Os campos assinalados com * são obrigatórios." style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="62" y="264" width="1000" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0D0D0;strokeColor=#D0D0D0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="307" width="1156" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-9" value="Nome *" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="341" width="525" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="372" width="525" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-11" value="Nome do patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="74" y="385" width="501" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-12" value="Email *" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="449" width="525" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="480" width="525" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-14" value="nome@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="74" y="493" width="501" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-15" value="O email deve ser único entre os patrocinadores." style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="62" y="534" width="525" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-16" value="País (opcional)" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="600" width="525" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="631" width="525" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-18" value="Selecionar país" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="74" y="644" width="475" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-19" value="v" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="561" y="644" width="15" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-20" value="Animais apoiados *" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="341" width="545" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-21" value="Seleciona pelo menos um animal." style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="655" y="378" width="545" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="420" width="563" height="266" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="677" y="449" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-24" value="x" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="681" y="451" width="14" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-25" value="Animal A" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="708" y="446" width="479" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="677" y="502" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-27" value="x" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="681" y="504" width="14" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-28" value="Animal B" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="708" y="499" width="479" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="677" y="555" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-30" value="Animal C" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="708" y="552" width="479" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="677" y="608" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-32" value="Animal D" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="708" y="605" width="479" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0D0D0;strokeColor=#D0D0D0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="737" width="1156" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5E5E5;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="773" width="202" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-35" value="Guardar patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="783" width="186" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="773" width="128" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-37" value="Cancelar" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="288" y="783" width="112" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sponsor-3" name="03 — Lista de patrocinadores — mobile">
+    <mxGraphModel dx="430" dy="1065" grid="1" gridSize="10" page="1" pageScale="1" pageWidth="430" pageHeight="1065" background="#F4F4F4">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p3-0" value="03 · Lista · Mobile" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="390" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="65" width="390" height="970" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="65" width="390" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-3" value="ANIMALEC" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=23;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="87" width="270" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="78" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#555555;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="90" width="20" height="2" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#555555;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="98" width="20" height="2" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#555555;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="106" width="20" height="2" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-8" value="Administração /&lt;br&gt;Patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="155" width="350" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-9" value="Patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=27;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="350" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5E5E5;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="281" width="350" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-11" value="Adicionar patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="48" y="291" width="334" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="337" width="350" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-13" value="Menu principal" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="48" y="347" width="334" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAAAAA;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="411" width="350" height="232" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-15" value="Patrocinador 01" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=19;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="429" width="318" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-16" value="patrocinador01@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="56" y="469" width="318" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-17" value="País: Portugal" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="56" y="503" width="318" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-18" value="Animais: Animal A, Animal B" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="56" y="537" width="318" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="585" width="75" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-20" value="Ver" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="64" y="595" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="585" width="88" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-22" value="Editar" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="148" y="595" width="72" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="237" y="585" width="137" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-24" value="Remover" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="595" width="121" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAAAAA;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="669" width="350" height="232" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-26" value="Patrocinador 02" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=19;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="687" width="318" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-27" value="patrocinador02@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="56" y="727" width="318" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-28" value="País: —" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="56" y="761" width="318" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-29" value="Animais: Animal B" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="56" y="795" width="318" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="843" width="75" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-31" value="Ver" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="64" y="853" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="843" width="88" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-33" value="Editar" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="148" y="853" width="72" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="237" y="843" width="137" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-35" value="Remover" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="853" width="121" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-36" value="2 patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="951" width="350" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sponsor-4" name="04 — Formulário de patrocinador — mobile">
+    <mxGraphModel dx="430" dy="1300" grid="1" gridSize="10" page="1" pageScale="1" pageWidth="430" pageHeight="1300" background="#F4F4F4">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p4-0" value="04 · Formulário · Mobile" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="390" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="65" width="390" height="1205" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="65" width="390" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-3" value="ANIMALEC" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=23;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="87" width="270" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="78" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#555555;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="90" width="20" height="2" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#555555;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="98" width="20" height="2" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#555555;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="106" width="20" height="2" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-8" value="Administração /&lt;br&gt;Patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="155" width="350" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-9" value="Adicionar&lt;br&gt;patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=27;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-10" value="Os campos assinalados com *&lt;br&gt;são obrigatórios." style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="303" width="350" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-11" value="Nome *" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="372" width="350" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="403" width="350" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-13" value="Nome do patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="52" y="416" width="326" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-14" value="Email *" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="476" width="350" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="507" width="350" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-16" value="nome@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="52" y="520" width="326" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-17" value="O email deve ser único entre&lt;br&gt;os patrocinadores." style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="562" width="350" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-18" value="País (opcional)" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="630" width="350" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="661" width="350" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-20" value="Selecionar país" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="52" y="674" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-21" value="v" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="364" y="674" width="15" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-22" value="Animais apoiados *" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="743" width="350" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-23" value="Seleciona pelo menos um animal." style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="779" width="350" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="823" width="350" height="246" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="57" y="851" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-26" value="x" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="61" y="853" width="14" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-27" value="Animal A" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="88" y="848" width="284" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="57" y="903" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-29" value="Animal B" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="88" y="900" width="284" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="57" y="955" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-31" value="Animal C" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="88" y="952" width="284" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="57" y="1007" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-33" value="Animal D" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="88" y="1004" width="284" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5E5E5;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1115" width="350" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-35" value="Guardar patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="48" y="1125" width="334" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1172" width="350" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-37" value="Cancelar" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="48" y="1182" width="334" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+<diagram id="patrocinadores-vista-5" name="05 — Consulta de patrocinador — browser">
+  <mxGraphModel dx="1280" dy="900" grid="1" gridSize="10" page="1" pageScale="1" pageWidth="1280" pageHeight="900" background="#F4F4F4">
+    <root>
+      <mxCell id="0" />
+      <mxCell id="1" parent="0" />
+      <mxCell id="patrocinadores-vista-5-0" value="05 · Consulta de patrocinador · Browser" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#555555;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="23" width="1200" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="30" y="65" width="1220" height="800" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="30" y="65" width="1220" height="70" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-3" value="ANIMALEC" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=25;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="86" width="250" height="34" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-4" value="Administração" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=right;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=17;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="970" y="93" width="240" height="30" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-5" value="Administração / Patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="62" y="160" width="900" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-6" value="Patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=29;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="210" width="650" height="45" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5E5E5;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="864" y="210" width="192" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-8" value="Adicionar patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="872" y="220" width="176" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="1070" y="210" width="148" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-10" value="Menu principal" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="1078" y="220" width="132" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0D0D0;strokeColor=#D0D0D0;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="281" width="1156" height="1" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="311" width="1156" height="48" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-13" value="Nome" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="78" y="326" width="150" height="26" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-14" value="Email" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="258" y="326" width="270" height="26" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-15" value="País" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="564" y="326" width="110" height="26" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-16" value="Animais apoiados" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="708" y="326" width="210" height="26" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-17" value="Ações" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="954" y="326" width="248" height="26" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CCCCCC;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="359" width="1156" height="85" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-19" value="Patrocinador 01" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="78" y="388" width="156" height="40" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-20" value="patrocinador01@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="258" y="388" width="282" height="40" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-21" value="Portugal" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="564" y="388" width="120" height="40" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-22" value="Animal A, Animal B" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="708" y="388" width="222" height="40" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-23" value="Ver  ·  Editar  ·  Remover" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="954" y="388" width="248" height="35" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CCCCCC;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="444" width="1156" height="85" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-25" value="Patrocinador 02" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="78" y="473" width="156" height="40" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-26" value="patrocinador02@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="258" y="473" width="282" height="40" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-27" value="—" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="564" y="473" width="120" height="40" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-28" value="Animal B" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="708" y="473" width="222" height="40" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-29" value="Ver  ·  Editar  ·  Remover" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="954" y="473" width="248" height="35" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-30" value="2 patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="62" y="645" width="700" height="30" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFCFCF;strokeColor=#CFCFCF;strokeWidth=1;fillOpacity=75;strokeOpacity=0;" vertex="1" parent="1">
+        <mxGeometry x="30" y="65" width="1220" height="800" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=2;" vertex="1" parent="1">
+        <mxGeometry x="320" y="267" width="640" height="445" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-33" value="Detalhes do patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=24;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="344" y="289" width="592" height="32" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0D0D0;strokeColor=#D0D0D0;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="344" y="337" width="592" height="1" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-35" value="Nome" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#555555;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="344" y="358" width="592" height="23" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-36" value="Patrocinador 01" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="344" y="384" width="592" height="29" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-37" value="Email" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#555555;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="344" y="423" width="592" height="23" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-38" value="patrocinador01@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="344" y="449" width="592" height="29" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-39" value="País" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#555555;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="344" y="488" width="592" height="23" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-40" value="Portugal" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="344" y="514" width="592" height="29" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-41" value="Animais apoiados" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#555555;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="344" y="553" width="592" height="23" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-42" value="Animal A; Animal B" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="344" y="579" width="592" height="29" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5E5E5;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="582" y="646" width="116" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-5-44" value="OK" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="590" y="656" width="100" height="25" as="geometry" />
+      </mxCell>
+    </root>
+  </mxGraphModel>
+</diagram>
+<diagram id="patrocinadores-vista-6" name="06 — Remoção de patrocinador — browser">
+  <mxGraphModel dx="1280" dy="900" grid="1" gridSize="10" page="1" pageScale="1" pageWidth="1280" pageHeight="900" background="#F4F4F4">
+    <root>
+      <mxCell id="0" />
+      <mxCell id="1" parent="0" />
+      <mxCell id="patrocinadores-vista-6-0" value="06 · Confirmação de remoção · Browser" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#555555;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="23" width="1200" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="30" y="65" width="1220" height="800" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="30" y="65" width="1220" height="70" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-3" value="ANIMALEC" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=25;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="86" width="250" height="34" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-4" value="Administração" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=right;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=17;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="970" y="93" width="240" height="30" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-5" value="Administração / Patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="62" y="160" width="900" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-6" value="Patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=29;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="210" width="650" height="45" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5E5E5;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="864" y="210" width="192" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-8" value="Adicionar patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="872" y="220" width="176" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="1070" y="210" width="148" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-10" value="Menu principal" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="1078" y="220" width="132" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0D0D0;strokeColor=#D0D0D0;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="281" width="1156" height="1" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="311" width="1156" height="48" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-13" value="Nome" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="78" y="326" width="150" height="26" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-14" value="Email" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="258" y="326" width="270" height="26" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-15" value="País" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="564" y="326" width="110" height="26" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-16" value="Animais apoiados" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="708" y="326" width="210" height="26" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-17" value="Ações" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="954" y="326" width="248" height="26" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CCCCCC;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="359" width="1156" height="85" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-19" value="Patrocinador 01" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="78" y="388" width="156" height="40" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-20" value="patrocinador01@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="258" y="388" width="282" height="40" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-21" value="Portugal" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="564" y="388" width="120" height="40" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-22" value="Animal A, Animal B" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="708" y="388" width="222" height="40" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-23" value="Ver  ·  Editar  ·  Remover" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="954" y="388" width="248" height="35" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CCCCCC;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="444" width="1156" height="85" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-25" value="Patrocinador 02" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="78" y="473" width="156" height="40" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-26" value="patrocinador02@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="258" y="473" width="282" height="40" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-27" value="—" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="564" y="473" width="120" height="40" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-28" value="Animal B" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="708" y="473" width="222" height="40" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-29" value="Ver  ·  Editar  ·  Remover" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="954" y="473" width="248" height="35" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-30" value="2 patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="62" y="645" width="700" height="30" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFCFCF;strokeColor=#CFCFCF;strokeWidth=1;fillOpacity=75;strokeOpacity=0;" vertex="1" parent="1">
+        <mxGeometry x="30" y="65" width="1220" height="800" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=2;" vertex="1" parent="1">
+        <mxGeometry x="365" y="288" width="550" height="350" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-33" value="Remover patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=22;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="389" y="310" width="502" height="33" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0D0D0;strokeColor=#D0D0D0;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="389" y="361" width="502" height="1" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-35" value="Pretende remover este patrocinador?" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="389" y="388" width="502" height="55" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-36" value="Patrocinador 01" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="389" y="452" width="502" height="28" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-37" value="patrocinador01@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#555555;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="389" y="493" width="502" height="28" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5E5E5;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="477" y="562" width="150" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-39" value="Remover" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="485" y="572" width="134" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="645" y="562" width="158" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-6-41" value="Cancelar" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="653" y="572" width="142" height="25" as="geometry" />
+      </mxCell>
+    </root>
+  </mxGraphModel>
+</diagram>
+<diagram id="patrocinadores-vista-7" name="07 — Edição de patrocinador — browser">
+  <mxGraphModel dx="1280" dy="900" grid="1" gridSize="10" page="1" pageScale="1" pageWidth="1280" pageHeight="900" background="#F4F4F4">
+    <root>
+      <mxCell id="0" />
+      <mxCell id="1" parent="0" />
+      <mxCell id="patrocinadores-vista-7-0" value="07 · Formulário de edição · Browser" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#555555;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="23" width="1200" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="30" y="65" width="1220" height="800" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="30" y="65" width="1220" height="70" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-3" value="ANIMALEC" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=25;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="86" width="250" height="34" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-4" value="Administração" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=right;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=17;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="970" y="93" width="240" height="30" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-5" value="Administração / Patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="62" y="160" width="900" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-6" value="Editar patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=29;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="210" width="850" height="45" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-7" value="Os campos assinalados com * são obrigatórios." style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="62" y="264" width="1000" height="28" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0D0D0;strokeColor=#D0D0D0;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="307" width="1156" height="1" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-9" value="Nome *" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="341" width="525" height="24" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="372" width="525" height="46" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-11" value="Patrocinador 01" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="74" y="385" width="501" height="26" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-12" value="Email *" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="449" width="525" height="24" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="480" width="525" height="46" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-14" value="patrocinador01@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="74" y="493" width="501" height="26" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-15" value="O email não pode pertencer a outro patrocinador." style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="62" y="534" width="525" height="45" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-16" value="País (opcional)" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="600" width="525" height="24" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="631" width="525" height="46" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-18" value="Portugal" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="74" y="644" width="475" height="26" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-19" value="v" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="561" y="644" width="15" height="26" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-20" value="Animais apoiados *" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="655" y="341" width="545" height="26" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-21" value="Seleciona pelo menos um animal." style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="655" y="378" width="545" height="28" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="655" y="420" width="563" height="266" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="677" y="449" width="19" height="19" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-24" value="x" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="681" y="451" width="14" height="18" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-25" value="Animal A" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="708" y="446" width="479" height="27" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="677" y="502" width="19" height="19" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-27" value="x" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="681" y="504" width="14" height="18" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-28" value="Animal B" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="708" y="499" width="479" height="27" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="677" y="555" width="19" height="19" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-30" value="Animal C" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="708" y="552" width="479" height="27" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="677" y="608" width="19" height="19" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-32" value="Animal D" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="708" y="605" width="479" height="27" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0D0D0;strokeColor=#D0D0D0;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="737" width="1156" height="1" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5E5E5;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="62" y="773" width="202" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-35" value="Atualizar patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="70" y="783" width="186" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="280" y="773" width="128" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-7-37" value="Cancelar" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="288" y="783" width="112" height="25" as="geometry" />
+      </mxCell>
+    </root>
+  </mxGraphModel>
+</diagram>
+<diagram id="patrocinadores-vista-8" name="08 — Consulta de patrocinador — mobile">
+  <mxGraphModel dx="430" dy="1065" grid="1" gridSize="10" page="1" pageScale="1" pageWidth="430" pageHeight="1065" background="#F4F4F4">
+    <root>
+      <mxCell id="0" />
+      <mxCell id="1" parent="0" />
+      <mxCell id="patrocinadores-vista-8-0" value="08 · Consulta de patrocinador · Mobile" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="20" y="20" width="390" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="20" y="65" width="390" height="970" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="20" y="65" width="390" height="66" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-3" value="ANIMALEC" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=23;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="87" width="270" height="29" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="350" y="78" width="42" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#555555;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="361" y="90" width="20" height="2" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#555555;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="361" y="98" width="20" height="2" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#555555;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="361" y="106" width="20" height="2" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-8" value="Administração /&lt;br&gt;Patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="40" y="155" width="350" height="44" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-9" value="Patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=27;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="220" width="350" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5E5E5;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="281" width="350" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-11" value="Adicionar patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="48" y="291" width="334" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="337" width="350" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-13" value="Menu principal" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="48" y="347" width="334" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAAAAA;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="411" width="350" height="232" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-15" value="Patrocinador 01" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=19;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="56" y="429" width="318" height="29" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-16" value="patrocinador01@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="56" y="469" width="318" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-17" value="País: Portugal" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="56" y="503" width="318" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-18" value="Animais: Animal A, Animal B" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="56" y="537" width="318" height="45" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="56" y="585" width="75" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-20" value="Ver" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="64" y="595" width="59" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="140" y="585" width="88" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-22" value="Editar" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="148" y="595" width="72" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="237" y="585" width="137" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-24" value="Remover" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="245" y="595" width="121" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAAAAA;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="669" width="350" height="232" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-26" value="Patrocinador 02" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=19;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="56" y="687" width="318" height="29" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-27" value="patrocinador02@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="56" y="727" width="318" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-28" value="País: —" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="56" y="761" width="318" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-29" value="Animais: Animal B" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="56" y="795" width="318" height="45" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="56" y="843" width="75" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-31" value="Ver" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="64" y="853" width="59" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="140" y="843" width="88" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-33" value="Editar" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="148" y="853" width="72" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="237" y="843" width="137" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-35" value="Remover" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="245" y="853" width="121" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-36" value="2 patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="40" y="951" width="350" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFCFCF;strokeColor=#CFCFCF;strokeWidth=1;fillOpacity=75;strokeOpacity=0;" vertex="1" parent="1">
+        <mxGeometry x="20" y="65" width="390" height="970" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=2;" vertex="1" parent="1">
+        <mxGeometry x="40" y="275" width="350" height="485" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-39" value="Detalhes do patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=20;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="64" y="297" width="302" height="32" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0D0D0;strokeColor=#D0D0D0;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="64" y="345" width="302" height="1" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-41" value="Nome" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#555555;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="64" y="366" width="302" height="23" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-42" value="Patrocinador 01" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="64" y="392" width="302" height="29" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-43" value="Email" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#555555;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="64" y="442" width="302" height="23" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-44" value="patrocinador01@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="64" y="468" width="302" height="29" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-45" value="País" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#555555;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="64" y="518" width="302" height="23" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-46" value="Portugal" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="64" y="544" width="302" height="29" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-47" value="Animais apoiados" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#555555;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="64" y="594" width="302" height="23" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-48" value="Animal A; Animal B" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="64" y="620" width="302" height="29" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5E5E5;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="157" y="694" width="116" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-8-50" value="OK" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="165" y="704" width="100" height="25" as="geometry" />
+      </mxCell>
+    </root>
+  </mxGraphModel>
+</diagram>
+<diagram id="patrocinadores-vista-9" name="09 — Remoção de patrocinador — mobile">
+  <mxGraphModel dx="430" dy="1065" grid="1" gridSize="10" page="1" pageScale="1" pageWidth="430" pageHeight="1065" background="#F4F4F4">
+    <root>
+      <mxCell id="0" />
+      <mxCell id="1" parent="0" />
+      <mxCell id="patrocinadores-vista-9-0" value="09 · Confirmação de remoção · Mobile" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="20" y="20" width="390" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="20" y="65" width="390" height="970" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="20" y="65" width="390" height="66" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-3" value="ANIMALEC" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=23;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="87" width="270" height="29" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="350" y="78" width="42" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#555555;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="361" y="90" width="20" height="2" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#555555;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="361" y="98" width="20" height="2" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#555555;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="361" y="106" width="20" height="2" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-8" value="Administração /&lt;br&gt;Patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="40" y="155" width="350" height="44" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-9" value="Patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=27;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="220" width="350" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5E5E5;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="281" width="350" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-11" value="Adicionar patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="48" y="291" width="334" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="337" width="350" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-13" value="Menu principal" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="48" y="347" width="334" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAAAAA;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="411" width="350" height="232" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-15" value="Patrocinador 01" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=19;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="56" y="429" width="318" height="29" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-16" value="patrocinador01@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="56" y="469" width="318" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-17" value="País: Portugal" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="56" y="503" width="318" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-18" value="Animais: Animal A, Animal B" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="56" y="537" width="318" height="45" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="56" y="585" width="75" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-20" value="Ver" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="64" y="595" width="59" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="140" y="585" width="88" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-22" value="Editar" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="148" y="595" width="72" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="237" y="585" width="137" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-24" value="Remover" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="245" y="595" width="121" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAAAAA;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="669" width="350" height="232" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-26" value="Patrocinador 02" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=19;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="56" y="687" width="318" height="29" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-27" value="patrocinador02@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="56" y="727" width="318" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-28" value="País: —" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="56" y="761" width="318" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-29" value="Animais: Animal B" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="56" y="795" width="318" height="45" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="56" y="843" width="75" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-31" value="Ver" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="64" y="853" width="59" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="140" y="843" width="88" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-33" value="Editar" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="148" y="853" width="72" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="237" y="843" width="137" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-35" value="Remover" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="245" y="853" width="121" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-36" value="2 patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="40" y="951" width="350" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFCFCF;strokeColor=#CFCFCF;strokeWidth=1;fillOpacity=75;strokeOpacity=0;" vertex="1" parent="1">
+        <mxGeometry x="20" y="65" width="390" height="970" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=2;" vertex="1" parent="1">
+        <mxGeometry x="40" y="295" width="350" height="390" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-39" value="Remover patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=22;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="64" y="317" width="302" height="33" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0D0D0;strokeColor=#D0D0D0;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="64" y="368" width="302" height="1" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-41" value="Pretende remover este patrocinador?" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="64" y="395" width="302" height="55" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-42" value="Patrocinador 01" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="64" y="459" width="302" height="28" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-43" value="patrocinador01@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#555555;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="64" y="500" width="302" height="28" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5E5E5;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="64" y="558" width="302" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-45" value="Remover" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="72" y="568" width="286" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="64" y="615" width="302" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-9-47" value="Cancelar" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="72" y="625" width="286" height="25" as="geometry" />
+      </mxCell>
+    </root>
+  </mxGraphModel>
+</diagram>
+<diagram id="patrocinadores-vista-10" name="10 — Edição de patrocinador — mobile">
+  <mxGraphModel dx="430" dy="1300" grid="1" gridSize="10" page="1" pageScale="1" pageWidth="430" pageHeight="1300" background="#F4F4F4">
+    <root>
+      <mxCell id="0" />
+      <mxCell id="1" parent="0" />
+      <mxCell id="patrocinadores-vista-10-0" value="10 · Formulário de edição · Mobile" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="20" y="20" width="390" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="20" y="65" width="390" height="1205" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="20" y="65" width="390" height="66" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-3" value="ANIMALEC" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=23;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="87" width="270" height="29" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="350" y="78" width="42" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#555555;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="361" y="90" width="20" height="2" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#555555;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="361" y="98" width="20" height="2" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#555555;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="361" y="106" width="20" height="2" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-8" value="Administração /&lt;br&gt;Patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="40" y="155" width="350" height="44" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-9" value="Editar&lt;br&gt;patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=27;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="220" width="350" height="70" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-10" value="Os campos assinalados com *&lt;br&gt;são obrigatórios." style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="40" y="303" width="350" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-11" value="Nome *" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="372" width="350" height="24" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="403" width="350" height="46" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-13" value="Patrocinador 01" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="52" y="416" width="326" height="26" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-14" value="Email *" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="476" width="350" height="24" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="507" width="350" height="46" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-16" value="patrocinador01@example.com" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="52" y="520" width="326" height="26" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-17" value="O email não pode pertencer&lt;br&gt;a outro patrocinador." style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="40" y="562" width="350" height="45" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-18" value="País (opcional)" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="630" width="350" height="24" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="661" width="350" height="46" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-20" value="Portugal" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="52" y="674" width="300" height="26" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-21" value="v" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="364" y="674" width="15" height="26" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-22" value="Animais apoiados *" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="743" width="350" height="27" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-23" value="Seleciona pelo menos um animal." style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="40" y="779" width="350" height="27" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="823" width="350" height="246" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="57" y="851" width="19" height="19" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-26" value="x" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="61" y="853" width="14" height="18" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-27" value="Animal A" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="88" y="848" width="284" height="27" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="57" y="903" width="19" height="19" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-29" value="Animal B" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="88" y="900" width="284" height="27" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="57" y="955" width="19" height="19" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-31" value="Animal C" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="88" y="952" width="284" height="27" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="57" y="1007" width="19" height="19" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-33" value="Animal D" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=16;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="88" y="1004" width="284" height="27" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5E5E5;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="1115" width="350" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-35" value="Atualizar patrocinador" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+        <mxGeometry x="48" y="1125" width="334" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+        <mxGeometry x="40" y="1172" width="350" height="42" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-37" value="Cancelar" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="48" y="1182" width="334" height="25" as="geometry" />
+      </mxCell>
+      <mxCell id="patrocinadores-vista-10-38" value="x" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+        <mxGeometry x="61" y="905" width="14" height="18" as="geometry" />
+      </mxCell>
+    </root>
+  </mxGraphModel>
+</diagram>
+</mxfile>

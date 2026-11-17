@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net" type="device" compressed="false">
+  <diagram id="admin-menu-1" name="01 — Menu de administração — browser">
+    <mxGraphModel dx="1280" dy="930" grid="1" gridSize="10" page="1" pageScale="1" pageWidth="1280" pageHeight="930" background="#F4F4F4">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="admin-menu-1-0" value="01 · Menu de administração · Browser" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#555555;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="23" width="1200" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="65" width="1220" height="835" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="65" width="1220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-3" value="ANIMALEC" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=25;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="86" width="300" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-4" value="ANIMAIS" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="754" y="95" width="100" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-5" value="QUIZZES" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="95" width="100" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-6" value="CONTACTOS" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="986" y="95" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-7" value="ADMIN" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1132" y="95" width="85" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-8" value="Administração" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="62" y="161" width="1156" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-9" value="Gestão do Animalec" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=29;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="217" width="1156" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0D0D0;strokeColor=#D0D0D0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="282" width="1156" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="247" y="327" width="380" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="416" y="347" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-13" value="U" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=23;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="419" y="353" width="36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-14" value="Utilizadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=19;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="411" width="344" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="652" y="327" width="380" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="821" y="347" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-17" value="A" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=23;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="824" y="353" width="36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-18" value="Animais" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=19;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="411" width="344" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="247" y="487" width="380" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="416" y="507" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-21" value="Q" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=23;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="419" y="513" width="36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-22" value="Quizzes" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=19;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="571" width="344" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="652" y="487" width="380" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="821" y="507" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-25" value="?" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=23;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="824" y="513" width="36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-26" value="Questões" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=19;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="571" width="344" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="247" y="647" width="380" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="416" y="667" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-29" value="P" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=23;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="419" y="673" width="36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-30" value="Patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=19;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="731" width="344" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="652" y="647" width="380" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="821" y="667" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-33" value="E" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=23;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="824" y="673" width="36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-1-34" value="Especialistas científicos" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=19;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="731" width="344" height="31" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="admin-menu-2" name="02 — Menu de administração — mobile">
+    <mxGraphModel dx="430" dy="1150" grid="1" gridSize="10" page="1" pageScale="1" pageWidth="430" pageHeight="1150" background="#F4F4F4">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="admin-menu-2-0" value="02 · Menu de administração · Mobile" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#555555;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="390" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="65" width="390" height="1055" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#9C9C9C;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="65" width="390" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-3" value="ANIMALEC" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=23;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="87" width="270" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="78" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#555555;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="90" width="20" height="2" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#555555;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="98" width="20" height="2" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#555555;strokeColor=#555555;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="106" width="20" height="2" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-8" value="Administração" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=14;fontColor=#666666;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="155" width="350" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-9" value="Gestão do&lt;br&gt;Animalec" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=27;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="211" width="350" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="321" width="350" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="57" y="349" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-12" value="U" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=22;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="355" width="34" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-13" value="Utilizadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="351" width="252" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="443" width="350" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="57" y="471" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-16" value="A" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=22;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="477" width="34" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-17" value="Animais" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="473" width="252" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="565" width="350" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="57" y="593" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-20" value="Q" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=22;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="599" width="34" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-21" value="Quizzes" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="595" width="252" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="687" width="350" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="57" y="715" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-24" value="?" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=22;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="721" width="34" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-25" value="Questões" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="717" width="252" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="809" width="350" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="57" y="837" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-28" value="P" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=22;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="843" width="34" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-29" value="Patrocinadores" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="839" width="252" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="931" width="350" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#777777;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="57" y="959" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-32" value="E" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=22;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="965" width="34" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="admin-menu-2-33" value="Especialistas científicos" style="text;html=1;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#262626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="961" width="252" height="58" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
